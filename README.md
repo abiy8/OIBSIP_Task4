@@ -14,8 +14,8 @@ Classify text messages as spam or ham using bag-of-words features and a multinom
 ## Run locally
 
 ```bash
-git clone https://github.com/abiy8/OIBSIP_Task4.git
-cd OIBSIP_Task4
+git clone https://github.com/abiy8/spam-message-classifier.git
+cd spam-message-classifier
 python -m venv .venv
 # Activate .venv for your operating system.
 pip install jupyter pandas numpy scikit-learn seaborn
